@@ -8,5 +8,5 @@ setup(
     author_email='myx51fc@gmail.com',
     url='https://github.com/duvu/ai51',
     packages=['ai51'],
-    package_dir={'ai51': 'ai'},
+    package_dir={'': 'ai'},
 )
