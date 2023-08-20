@@ -1,3 +1,2 @@
-revChatGPT==6.8.6
 EdgeGPT @ git+https://github.com/duvu/EdgeGPT.git@9aed44b641f8fbd23bfdd46f0276efc7f516c1cd
 GoogleBard @ git+https://github.com/duvu/Bard.git@cd8960790381ba8452d1c5464e8adcd7554597a3
